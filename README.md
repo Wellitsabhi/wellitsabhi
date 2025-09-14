@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=wellitsabhi&icon=7&color=12)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on Libo UI project<br>👯 I’m looking to collaborate to make projects in MERN and Nextjs<br>🌱 I’m currently learning Nextjs, Web3 and Rust<br>💬 Ask me about Development <br>⚡ Fun fact - I center div
+🔭 I’m currently working on project, PrepFIrst<br>👯 I’m looking to collaborate to make projects in MERN and Nextjs<br>🌱 I’m currently learning Nextjs, Web3 and Rust<br>💬 Ask me about Development <br>⚡ Fun fact - I center div
 
 
 ## 🌐 Socials:

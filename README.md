@@ -1,8 +1,10 @@
 ---
-[![](https://visitcount.itsvg.in/api?id=wellitsabhi&icon=7&color=12)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wellitsabhi.wellitsabhi&"  />
+</div>
 
 # 💫 About Me:
-🔭 I’m currently working on project, PrepFIrst<br>👯 I’m looking to collaborate to make projects in MERN and Nextjs<br>🌱 I’m currently learning Nextjs, Web3 and Rust<br>💬 Ask me about Development <br>⚡ Fun fact - I center div
+🔭 Working on project, PrepFIrst<br>👯 I’m looking to collaborate to make good projects <br>🌱 I’m currently learning Nextjs, Web3 and Rust<br>💬 Ask me about Development
 
 
 ## 🌐 Socials:
@@ -20,8 +22,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wellitsabhi&limit=5&theme=onestar&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

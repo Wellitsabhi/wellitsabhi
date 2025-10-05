@@ -3,8 +3,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wellitsabhi.wellitsabhi&"  />
 </div>
 
-# 💫 About Me:
-🔭 Working on project, PrepFIrst<br>👯 I’m looking to collaborate to make good projects <br>🌱 I’m currently learning Nextjs, Web3 and Rust<br>💬 Ask me about Development
+[![An image of @wellitsabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wellitsabhi)](https://holopin.io/@wellitsabhi)
+
+### 🔭 Learning Nextjs, Web3 and Rust
 
 
 ## 🌐 Socials:
